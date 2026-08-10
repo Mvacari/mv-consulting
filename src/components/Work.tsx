@@ -17,9 +17,6 @@ export function Work() {
           <h2 className="mt-5 font-[family-name:var(--font-display)] text-4xl font-semibold tracking-tight md:text-5xl">
             Proof in the pipeline.
           </h2>
-          <p className="mt-4 text-[var(--text-muted)] leading-relaxed">
-            Switch between consulting engagements and full-time roles - two tracks, clearly separated.
-          </p>
         </Reveal>
 
         <Reveal

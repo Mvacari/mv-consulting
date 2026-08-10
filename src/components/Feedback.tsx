@@ -17,7 +17,7 @@ export function Feedback() {
               What colleagues say.
             </h2>
             <p className="mt-4 text-[var(--text-muted)] leading-relaxed">
-              LinkedIn recommendations from people who worked with me directly.
+              Recommendations from people who worked with me directly.
             </p>
           </div>
           <div className="flex flex-wrap gap-2">
