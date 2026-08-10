@@ -60,7 +60,7 @@ export const services = [
 ];
 
 export const about = {
-  title: "About Mihaela",
+  title: "About me",
   body: [
     "Business development and account management professional with 5+ years generating pipeline and managing client relationships. I’ve built outbound functions from zero, led BDRs, and partnered with enterprise accounts - and I don’t just meet quota, I outperform.",
     "Whether advising founders as a consultant or joining a startup team, I bring analytical thinking and human understanding to every sales process.",
