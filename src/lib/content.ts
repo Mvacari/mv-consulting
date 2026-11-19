@@ -129,6 +129,21 @@ export const consulting = {
     "I partner with early-stage and scaling B2B companies to design and implement GTM systems - from ICP and messaging through data, automation, outbound, reporting, and pipeline ownership.",
   clients: [
     {
+      name: "EqualTo",
+      detail:
+        "Built the GTM playbook from the ground up, creating a repeatable outbound motion that generated up to six qualified opportunities per month.",
+    },
+    {
+      name: "Smartglass Technologies",
+      detail:
+        "Generated 10 qualified leads by the second month, building early momentum through focused prospecting and a clear target-account approach.",
+    },
+    {
+      name: "Ecochain",
+      detail:
+        "Connected and automated systems to reduce manual handoffs, streamline workflows, and help the team move faster.",
+    },
+    {
       name: "analog.money",
       detail:
         "Built and operated the go-to-market motion for a DeFi savings platform, including channel strategy, content distribution, community acquisition, and investor reporting.",
