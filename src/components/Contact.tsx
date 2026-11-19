@@ -10,7 +10,7 @@ export function Contact() {
           Let’s build your next pipeline.
         </h2>
         <p className="mx-auto mt-4 max-w-xl text-[var(--text-muted)] leading-relaxed">
-          Founders: tell me where you are in GTM. GTM directors and revenue heads: share where pipeline is breaking down.
+          Founders, GTM directors, and revenue leaders: tell me where your pipeline is getting stuck and what you’re building toward.
         </p>
         <div className="mt-10 flex flex-col items-center justify-center gap-3 sm:flex-row sm:flex-wrap">
           <a
