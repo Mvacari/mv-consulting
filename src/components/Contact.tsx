@@ -10,7 +10,7 @@ export function Contact() {
           Let’s build your next pipeline.
         </h2>
         <p className="mx-auto mt-4 max-w-xl text-[var(--text-muted)] leading-relaxed">
-          Founders: tell me where you are in GTM. Recruiters: happy to talk about new roles in BD, growth, and sales leadership.
+          Tell me where your GTM motion stands, where pipeline is breaking down, and what you need to make growth repeatable.
         </p>
         <div className="mt-10 flex flex-col items-center justify-center gap-3 sm:flex-row sm:flex-wrap">
           <a
@@ -19,7 +19,7 @@ export function Contact() {
             rel="noopener noreferrer"
             className="cta-pill text-base"
           >
-            Let&apos;s talk
+            Book a consultation
             <span aria-hidden>→</span>
           </a>
           <a
